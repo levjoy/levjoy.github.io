@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'The carriers could be Android''s downfall'
+categories:
+  - Uncategorized
+
+---
+
+<div class="posterous_bookmarklet_entry"><br /><blockquote class="posterous_long_quote">It will be a very disappointing if the option to grab <em>any App</em> from the Marketplace from <em>any Android device</em> is no longer possible.</blockquote><br /><br /><div class="posterous_quote_citation">via <a href="http://skattertech.com/2010/09/android-downfall-carrier-exclusive-apps/">skattertech.com</a></div><br /><p>Skattertech&#8217;s Sahas Katta laments the perversion of Android&#8217;s openness via the restriction of some apps &#8212; Skype, Blockbuster, Qik Video Chat &#8212; to carrier-specific devices. <br /></p><p>Ironically, given the Apple app store&#8217;s dalliances with censorship and restriction, Android users could be dealing with a more closed system than Apple ever oversaw. <br /></p><p>As I&#8217;ve <a href="http://openmobile.posterous.com/verizon-were-only-mangling-some-of-our-androi">pointed out</a> <a href="http://openmobile.posterous.com/verizon-willingly-screws-up-another-phone">repeatedly</a>, Google has given far too much leeway to the carriers to do what they want with the open and free Android. The result has been carriers abusing Android for short-term profit and device distinction.  <br /></p><p>Most people have never expected Verizon or AT&amp;T to support the noble principle of a solid, open-source mobile operating system unless it benefitted their bottom line. The trouble is, Google is showing its true, bottom-line-loving colors as well, and is apparently complicit in the corruption of its beloved platform.</p></div><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/8920950033468593796-7052161554168218761?l=openmobile.blogspot.com" alt="" /></div>

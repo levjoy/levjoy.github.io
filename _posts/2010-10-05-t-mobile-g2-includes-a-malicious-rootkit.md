@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'T-Mobile G2 includes a "malicious rootkit"'
+tags:
+  - Android
+  - root
+  - TMobile
+categories:
+  - Uncategorized
+
+---
+
+<div class="posterous_bookmarklet_entry"><br /><blockquote class="posterous_medium_quote">Yesterday, some T-Mobile stores began selling its newest mobile device, the G2, an Android-based smart phone originally slated for an October 6 release while AT&amp;T is slated to release it later in the year. This device truly is representative of the next generation of mobile devices&#8230; <strong>Unfortunately, the G2 also comes with built-in hardware that restricts what software a device owner might wish to install.</strong></blockquote><br /><div class="posterous_quote_citation">via <a href="http://oti.newamerica.net/blogposts/2010/newest_google_android_cell_phone_contains_unexpected_feature_a_malicious_root_kit-380?utm_source=twitterfeed&amp;utm_medium=twitter">oti.newamerica.net</a></div><br /><p>&#8220;Malicious rootkit.&#8221; Say that ten times fast.</p><br /><p>But seriously, New America Foundation has exposed a major, unacceptable problem with T-Mobile&#8217;s new G2 Android phone, which has otherwise been lauded as a great device.</p><br /><p>It seems that if users root this phone &#8212; if they hack it to gain &#8220;root&#8221; access so they can install modified software &#8212; a little birdie phones home and allows the network provider to override the modification and reinstall the original software.</p><br /><p>As NAF points out, this is akin to Microsoft disliking the modifications you&#8217;re making to your computer, and remotely reinstalling Windows.</p><br /><p>Most rooters know, or at least assume, that the modifications they&#8217;re making void the warranty of their phone. But they do it anyway, because rooting is fun and it can be truly useful.</p><br /><p>Consumers are already paying $200 plus a two-year contract for this phone. Shouldn&#8217;t they be able to modify it without Big Brother wiping it from his remote hideout in Corporateland?</p><br /><p>New America suggests this action should be illegal. I&#8217;m not sure about that, but it&#8217;s terribly anti-consumer and disgraceful to the open ethos of the Android project.</p><br /><p>Congress and the FCC have both started to look more closely at the wireless industry&#8217;s myriad bad practices. This one is just asking for a closer look.</p><br /></div><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/8920950033468593796-1466581245820405177?l=openmobile.blogspot.com" alt="" /></div>

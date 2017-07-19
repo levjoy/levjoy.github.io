@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'At least there weren''t any hanging chads'
+categories:
+  - Uncategorized
+
+---
+
+
+    <div class='p_embed p_image_embed'>
+<img alt="Media_httpstaticflick_vczio" height="317" src="http://levjoydotcom3.files.wordpress.com/2006/07/media_httpstaticflick_vczio.jpg?w=300" width="500" />
+</div>
+
+
+(<a href="http://flickr.com/photos/tiquis/">tiquis_magallanes </a>on Flickr)
+
+<strong>Update:</strong> I should have probably investigated the news more before writing my post-trip post about the Mexican elections.  Right now, there's a recount occurring and it's too close to call. 
+
+Before I write a post about our wonderful five-day mini-car-trip-vacation (which inlcuded Superman at the drive-in, three ice cream cones, and two trips to the driving range), I want to mention some disappointing news about the recent Mexican presidential election.
+
+A lot of folks like me were hoping that Andrés Manuel López Obrador, the liberal candidate, would win.  He took something of a stand about trade and Mexico's relationship with the U.S. and the race was completely even as the elections began.
+
+Well, the election is over and apparently Obrador lost.  Except, as <a href="http://vivirlatino.com/">Vivir Latino</a> reports, there may be a slight issue of <a href="http://vivirlatino.com/2006/07/04/mexican-elections-3-million-missing-votes.php">three million "missing" votes</a> that might acount for his loss.
+
+Says Vivir:
+<blockquote>Mexican daily <em><a href="http://www.jornada.unam.mx/2006/07/04/003n1pol.php">La Jornada</a></em><a href="http://www.jornada.unam.mx/2006/07/04/003n1pol.php"> reports</a>that hundreds of Mexican citizens have gathered outside of AMLO'scampaign headquarters in protest of what seems to be manipulation ofthe much talked about election. As for the candidate himself, he pointsto a concrete example of "missing" votes and electoral inconsistencies:</blockquote>Who knows if this is true or not, but nevertheless, after our own problems with democracy in 2000 and 2004, I wonder if the world will ever see a "clean" election again.<span style="font-size:10pt;">
+</span>
+<p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/election" rel="tag">election</a><strong>|</strong> <a href="http://www.technorati.com/tag/mexico" rel="tag">mexico</a><strong>|</strong> <a href="http://www.technorati.com/tag/obrador" rel="tag">obrador</a></p>
+  

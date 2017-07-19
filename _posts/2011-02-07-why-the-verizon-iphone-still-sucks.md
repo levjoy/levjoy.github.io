@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'Why the Verizon iPhone still sucks'
+categories:
+  - Uncategorized
+
+---
+
+<div class="posterous_bookmarklet_entry"><br /><blockquote class="posterous_short_quote">The launch of the iPhone on Verizon adds to the mountain of evidence that you just can’t trust wireless carriers.</blockquote><br /><br /><div class="posterous_quote_citation">via <a href="http://www.wired.com/gadgetlab/2011/02/iphone-verizon-sucks/">wired.com</a></div><br /><p>Wired&#8217;s Brian X. Chen has a great piece on why, no matter the magic that flows from Cupertino, and Verizon&#8217;s offer of &#8220;unlimited data&#8221; plans &#8212; the Verizon iPhone still sucks.<br /></p><p>Why? Because of punitive data policies that treat customers like unruly teenagers rather than honest, bill-paying smartphone lovers. <br /></p><p>Chen writes that &#8220;any smartphone customer who uses an &#8216;extraordinary amount of data&#8217; will see a slowdown in their data-transfer speeds for the remainder of a billing cycle.&#8221;<br /></p><p>It&#8217;s one thing if a data hog bent on streaming TV shows and movies during peak hours is slowed down a bit during that time so that others can have a shot at watching old episodes of Arrested Development, too. <br /></p><p>But instead, Verizon punishes those users by slowing down their data usage for the remainder of their billing period &#8212; which could be up to a month. <br /></p><p>Why punish users? There&#8217;s no benefit to this behavior other than showing those users who&#8217;s boss. <br /></p><p>This on top of $350 early-termination fees, the upcoming &#8220;bait and switch&#8221; of removing unlimited data plans, and the crippling of some phones and crapware mangling of others. Awful.</p></div><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/8920950033468593796-599178992794886289?l=openmobile.blogspot.com" alt="" /></div>

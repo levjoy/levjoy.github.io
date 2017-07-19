@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-18T17:07:05-04:00</updated><id>http://localhost:4000/</id><title type="html">levjoy.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/07/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-07-18T16:37:07-04:00</published><updated>2017-07-18T16:37:07-04:00</updated><id>http://localhost:4000/jekyll/update/2017/07/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/18/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">testing</title><link href="http://localhost:4000/uncategorized/2017/07/18/test.html" rel="alternate" type="text/html" title="testing" /><published>2017-07-18T00:00:00-04:00</published><updated>2017-07-18T00:00:00-04:00</updated><id>http://localhost:4000/uncategorized/2017/07/18/test</id><content type="html" xml:base="http://localhost:4000/uncategorized/2017/07/18/test.html">&lt;p&gt;testing it out to see if it works&lt;/p&gt;</content><author><name></name></author><summary type="html">testing it out to see if it works</summary></entry><entry><title type="html">Building a Digital Security Exchange</title><link href="http://localhost:4000/uncategorized/2017/03/09/building-a-digital-security-exchange.html" rel="alternate" type="text/html" title="Building a Digital Security Exchange" /><published>2017-03-09T00:00:00-05:00</published><updated>2017-03-09T00:00:00-05:00</updated><id>http://localhost:4000/uncategorized/2017/03/09/building-a-digital-security-exchange</id><content type="html" xml:base="http://localhost:4000/uncategorized/2017/03/09/building-a-digital-security-exchange.html">&lt;p&gt;I &lt;a href=&quot;https://medium.com/@levjoy/building-a-digital-security-exchange-d392ad2f4982#.5noxdp4rx&quot;&gt;just posted&lt;/a&gt; a description of the Digital Security Exchange (DSX), an effort to connect vulnerable communities to digital security experts and trainers, to Medium. Here’s a snippet:&lt;/p&gt;
+&lt;blockquote&gt;Faced with the reality of a Trump presidency, U.S. organizations big and small have realized they’re at risk of being hacked, surveilled, trolled, and otherwise attacked online — risks that &lt;a class=&quot;markup--anchor markup--p-anchor&quot; href=&quot;https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html?hp&amp;amp;action=click&amp;amp;pgtype=Homepage&amp;amp;clickSource=story-heading&amp;amp;module=first-column-region&amp;amp;region=top-news&amp;amp;WT.nav=top-news&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;this week’s WikiLeaks dump&lt;/a&gt; detailing the CIA’s hacking abilities have driven home. So much infrastructure is vulnerable: Vast databases of constituent information sit in the cloud, state surveillance is eradicating privacy and chilling free speech, and the devices we depend on to communicate have been weaponized against us.
+&lt;p id=&quot;fdca&quot; class=&quot;graf graf--p graf-after--p&quot;&gt;At the same time, existing recommendations can be dizzying. For many users, blog posts on how to install Signal, massive guides to protecting your digital privacy, and broad statements like “use Tor” — all offered in good faith and with the best of intentions — can be hard to understand or act upon. &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;If we want to truly secure civil society from digital attacks and empower communities in their to fight to protect their rights, we’ve got to recognize that digital security is largely a human problem, not a technical one. &lt;/strong&gt;Taking cues from the experiences of the deeply knowledgeable global digital security training community, the Digital Security Exchange will seek to make it easier for trainers and experts to connect directly to the communities in the U.S. — sharing expertise, documentation, and best practices — in order to increase capacity and security across the board.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&quot;graf graf--p graf-after--p&quot;&gt;Go &lt;a href=&quot;https://medium.com/@levjoy/building-a-digital-security-exchange-d392ad2f4982#.5noxdp4rx&quot;&gt;here&lt;/a&gt; to read the full post, &lt;a href=&quot;http://levjoy.com/get-in-touch/&quot;&gt;get in touch&lt;/a&gt; if you want to connect on this, and check out the &lt;a href=&quot;https://www.digitalsecurityexchange.org&quot;&gt;DSX site&lt;/a&gt; as we develop the project.&lt;/p&gt;</content><author><name></name></author><summary type="html">I just posted a description of the Digital Security Exchange (DSX), an effort to connect vulnerable communities to digital security experts and trainers, to Medium. Here’s a snippet: Faced with the reality of a Trump presidency, U.S. organizations big and small have realized they’re at risk of being hacked, surveilled, trolled, and otherwise attacked online — risks that this week’s WikiLeaks dump detailing the CIA’s hacking abilities have driven home. So much infrastructure is vulnerable: Vast databases of constituent information sit in the cloud, state surveillance is eradicating privacy and chilling free speech, and the devices we depend on to communicate have been weaponized against us. At the same time, existing recommendations can be dizzying. For many users, blog posts on how to install Signal, massive guides to protecting your digital privacy, and broad statements like “use Tor” — all offered in good faith and with the best of intentions — can be hard to understand or act upon. If we want to truly secure civil society from digital attacks and empower communities in their to fight to protect their rights, we’ve got to recognize that digital security is largely a human problem, not a technical one. Taking cues from the experiences of the deeply knowledgeable global digital security training community, the Digital Security Exchange will seek to make it easier for trainers and experts to connect directly to the communities in the U.S. — sharing expertise, documentation, and best practices — in order to increase capacity and security across the board. Go here to read the full post, get in touch if you want to connect on this, and check out the DSX site as we develop the project.</summary></entry><entry><title type="html">moving on from Access Now</title><link href="http://localhost:4000/uncategorized/2017/03/01/moving-on-from-access-now.html" rel="alternate" type="text/html" title="moving on from Access Now" /><published>2017-03-01T00:00:00-05:00</published><updated>2017-03-01T00:00:00-05:00</updated><id>http://localhost:4000/uncategorized/2017/03/01/moving-on-from-access-now</id><content type="html" xml:base="http://localhost:4000/uncategorized/2017/03/01/moving-on-from-access-now.html">&lt;p&gt;I just sent out this email:&lt;/p&gt;
+
+&lt;p&gt;“Friday, March 3, will be my last day as Advocacy Director at Access Now.&lt;/p&gt;
+
+&lt;p&gt;After nearly three years at Access Now I am moving on to focus on a new project, in which I’m seeking to coordinate digital security experts and connect them to civil society organizations and high-risk communities in need. I’ll be undertaking this project through a non-resident fellowship at Stanford’s Digital Civil Society Lab and via partnerships with other individuals and institutions.&lt;/p&gt;
+
+&lt;p&gt;It has been a great pleasure to work with the insanely talented and dedicated Access Now team and our many excellent partners around the world in the fight for the digital rights of internet users at risk – a cohort that, unfortunately, is growing its ranks every day. I look forward to working with many of you in the weeks and months ahead as we continue to build protections for civil society and to advocate for the fundamental rights of all people, online and offline.”&lt;/p&gt;
+
+&lt;p&gt;It’s all true. More details forthcoming!&lt;/p&gt;</content><author><name></name></author><summary type="html">I just sent out this email:</summary></entry><entry><title type="html">Leaving Free Press, joining Access</title><link href="http://localhost:4000/uncategorized/2014/06/18/leaving-free-press-going-to-access.html" rel="alternate" type="text/html" title="Leaving Free Press, joining Access" /><published>2014-06-18T00:00:00-04:00</published><updated>2014-06-18T00:00:00-04:00</updated><id>http://localhost:4000/uncategorized/2014/06/18/leaving-free-press-going-to-access</id><content type="html" xml:base="http://localhost:4000/uncategorized/2014/06/18/leaving-free-press-going-to-access.html">&lt;p&gt;Next week is my last week at &lt;a href=&quot;http://www.freepress.net&quot;&gt;Free Press&lt;/a&gt; — I’m leaving to become Advocacy Director at &lt;a href=&quot;http://www.accessnow.org&quot;&gt;Access&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve had the great privilege of working with Free Press for five years on campaigns to protect Net Neutrality, stop mass surveillance and build more diverse media. I’m proud of the work we’ve done and I look forward to seeing even bigger wins in the future.&lt;/p&gt;
+
+&lt;p&gt;I’m excited to fight for our digital rights with yet another amazing organization. Access is working on the frontlines of many things I care about deeply — stopping mass surveillance, protecting Net Neutrality, and helping at-risk activists make their communications more secure. And it does it all via campaigning, policy work, research, tech expertise, and more. The fact that Access does this work on a global level is super important to me — we launched the &lt;a href=&quot;http://www.webwewant.org&quot;&gt;Web We Want&lt;/a&gt; campaign last year to get more involved in the fight to protect digital rights around the world.&lt;/p&gt;
+
+&lt;p&gt;This is an amazing time to be working on these issues. I’m grateful that I’ll continue to do so in this new role.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><summary type="html">Next week is my last week at Free Press — I’m leaving to become Advocacy Director at Access.</summary></entry><entry><title type="html">My thoughts on Mozilla</title><link href="http://localhost:4000/uncategorized/2014/04/04/my-thoughts-on-mozilla.html" rel="alternate" type="text/html" title="My thoughts on Mozilla" /><published>2014-04-04T00:00:00-04:00</published><updated>2014-04-04T00:00:00-04:00</updated><id>http://localhost:4000/uncategorized/2014/04/04/my-thoughts-on-mozilla</id><content type="html" xml:base="http://localhost:4000/uncategorized/2014/04/04/my-thoughts-on-mozilla.html">&lt;p&gt;Supporting Prop 8 is beyond the pale. But I don’t fully agree with the tactics that some of my friends have used in order to make that point. IMHO, rather than spending our energy attacking Brendan Eich and Firefox (which affected the entire Mozilla community) we should have devoted ourselves to supporting our friends within the Mozilla community as they grappled (many of them publicly) with the biggest crisis they’d ever encountered. Energy spent encouraging&lt;span class=&quot;text_exposed_show&quot;&gt; people not to use Firefox, or calling for Eich’s resignation, was, in the long term, not constructive.&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;text_exposed_show&quot;&gt;
+
+Mozilla's decision to appoint Eich as CEO, and his subsequent decision to resign, are now being painted as partisan decisions. This damages Mozilla the organization — which has striven to remain nonpartisan and, especially, to work with communities on opposite sides of the political spectrum —more than it damages any one person who works/worked there. The &quot;win&quot; some are celebrating is, in my opinion, not a win at all. It's going to take Mozilla months and maybe years to recover thanks to the partisan mud that's being slung at it.
+
+This reality saddens me. Mozilla and the issues it fights for are too important to be subjected to this partisanship.
+
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Supporting Prop 8 is beyond the pale. But I don’t fully agree with the tactics that some of my friends have used in order to make that point. IMHO, rather than spending our energy attacking Brendan Eich and Firefox (which affected the entire Mozilla community) we should have devoted ourselves to supporting our friends within the Mozilla community as they grappled (many of them publicly) with the biggest crisis they’d ever encountered. Energy spent encouraging people not to use Firefox, or calling for Eich’s resignation, was, in the long term, not constructive.</summary></entry><entry><title type="html">Here You Go: My Favorite Music from 2013 and Beyond</title><link href="http://localhost:4000/uncategorized/2014/01/02/here-you-go-my-favorite-music-from-2013-and-before.html" rel="alternate" type="text/html" title="Here You Go: My Favorite Music from 2013 and Beyond " /><published>2014-01-02T00:00:00-05:00</published><updated>2014-01-02T00:00:00-05:00</updated><id>http://localhost:4000/uncategorized/2014/01/02/here-you-go-my-favorite-music-from-2013-and-before</id><content type="html" xml:base="http://localhost:4000/uncategorized/2014/01/02/here-you-go-my-favorite-music-from-2013-and-before.html">&lt;h2&gt;&lt;strong&gt;Albums&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In no particular order.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Bloody Valentine, &lt;em&gt;mbv&lt;/em&gt;&lt;/strong&gt;
+It’s like they never left. The first MBV album in 20 years is as good as the last one. And last third reaches new heights of noise, melody and rhythm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deerhunter, &lt;em&gt;Monomania
+&lt;/em&gt;&lt;/strong&gt;One of my favorite bands delivers yet another amazing record, blurring the lines between Deerhunter the band and Bradford Cox’s own Atlas Sound/bedroom recordings/whatever garage-pop-ness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Haim, &lt;em&gt;Days Are&lt;/em&gt; Gone
+&lt;/strong&gt;At first I found this boring. Now I can’t stop listening to it. Tight playing, great songwriting with dashes of Michael Jackson, Joni Mitchell, Belinda Carlisle and so much more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reputante, Oceanside
+&lt;/strong&gt;My brother releases another fine record.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The National, &lt;em&gt;Trouble Will Find&lt;/em&gt; Me
+&lt;/strong&gt;My favorite National record, which is saying a lot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;M.I.A.,&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;Matangi
+&lt;/strong&gt;&lt;/em&gt;To the haters: It’s ok to write about a social trend (“Y.A.L.A”) a year after it happens.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eleanor Friedberger, &lt;em&gt;Personal Record
+&lt;/em&gt;&lt;/strong&gt;She teamed up with John Wesley Harding to write the best songs of her career. Sounds great too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yo La Tengo, &lt;em&gt;Fade
+&lt;/em&gt;&lt;/strong&gt;Back to basics, with some gorgeous songs that I usually need to save for rainy days.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Luke Temple, &lt;em&gt;Good Mood Fool
+&lt;/em&gt;&lt;/strong&gt;Temple fronts the fantastic Here We Go Magic. Here he goes electro-funk, which is fine with me.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Tracks (2013)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Rather than give entire albums honorable mention, I’ve highlighted single tracks from new albums. In all of these cases, I didn’t really listen to the entire record; I just obsessed over a single track.&lt;/p&gt;
+
+&lt;p&gt;Destroyer, “&lt;a href=&quot;https://www.youtube.com/watch?v=h-cTy6HwAYA&quot;&gt;Babieca&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Low, “&lt;a href=&quot;https://www.youtube.com/watch?v=QfNLtUUEiGI&quot;&gt;Plastic Cup&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;The Men, “&lt;a href=&quot;https://www.youtube.com/watch?v=4MKGz5c8p2M&quot;&gt;Electric&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Kanye West, “&lt;a href=&quot;https://www.youtube.com/watch?v=BBAtAM7vtgc&quot;&gt;Bound 2&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Justin Timberlake, “&lt;a href=&quot;https://www.youtube.com/watch?v=tgUCelKKqgo&quot;&gt;Pusher Love Girl&lt;/a&gt;”&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Tracks (whenever)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Many more obsessions from before 2013, all of which kept me going throughout the year.&lt;/p&gt;
+
+&lt;p&gt;Broadcast, “&lt;a href=&quot;https://www.youtube.com/watch?v=mL6G2uGAwfs&quot;&gt;America’s Boy&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Frank Ocean, “&lt;a href=&quot;https://www.youtube.com/watch?v=s26qTrH2atA&quot;&gt;Pyramids&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Arlo Guthrie, “&lt;a href=&quot;https://www.youtube.com/watch?v=iGL97ahYii0&quot;&gt;Valley to Pray&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Body Dylan, “&lt;a href=&quot;https://www.youtube.com/watch?v=uSdVOEKW5YA&quot;&gt;Pretty Saro&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;John Wesley Harding, “&lt;a href=&quot;https://www.youtube.com/watch?v=yOxa_fbpZrA&quot;&gt;The Devil in Me&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Nick Lowe, “&lt;a href=&quot;https://www.youtube.com/watch?v=b0l3QWUXVho&quot;&gt;Cruel to Be Kind&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Genesis, “&lt;a href=&quot;https://www.youtube.com/watch?v=bmFRvpwVSwo&quot;&gt;Misunderstanding&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;The Clientele, “&lt;a href=&quot;https://www.youtube.com/watch?v=4cYNj2SeVdA&quot;&gt;Since K Got Over Me&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Here We Go Magic, “&lt;a href=&quot;https://www.youtube.com/watch?v=cpxZvQsQH8Y&quot;&gt;Fangela&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Medicine, “&lt;a href=&quot;https://www.youtube.com/watch?v=zIssW1Qw4ZE&quot;&gt;The Pink&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Twin Sister, “&lt;a href=&quot;https://www.youtube.com/watch?v=_eeZnLX_XBM&quot;&gt;Bad Street&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Mobius Band, “&lt;a href=&quot;https://www.youtube.com/watch?v=2WG1iOUpUTA&quot;&gt;A Hint of Blood&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Unwound, “&lt;a href=&quot;https://www.youtube.com/watch?v=f8n4GcRS1cY&quot;&gt;Look a Ghost&lt;/a&gt;”&lt;/p&gt;</content><author><name></name></author><summary type="html">Albums In no particular order.</summary></entry><entry><title type="html">“The inevitable end of surveillance is self-censorship”</title><link href="http://localhost:4000/uncategorized/2013/08/20/the-inevitable-end-of-surveillance-is-self-censorship.html" rel="alternate" type="text/html" title="&quot;The inevitable end of surveillance is self-censorship&quot;" /><published>2013-08-20T00:00:00-04:00</published><updated>2013-08-20T00:00:00-04:00</updated><id>http://localhost:4000/uncategorized/2013/08/20/the-inevitable-end-of-surveillance-is-self-censorship</id><content type="html" xml:base="http://localhost:4000/uncategorized/2013/08/20/the-inevitable-end-of-surveillance-is-self-censorship.html">&lt;p&gt;One the biggest dangers posed by the NSA’s overreaching surveillance programs is the chilling of free speech. Overzealous governments are spying on us, intimidating our families, and sending brutes to the offices of renowned newspapers with the clear intent of stopping people from reporting the facts about the massive, international government spying complex.&lt;/p&gt;
+
+&lt;p&gt;This week, two incidents proved this point all too well:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The UK government &lt;a href=&quot;http://www.nytimes.com/2013/08/19/world/europe/britain-detains-partner-of-reporter-tied-to-leaks.html&quot;&gt;held&lt;/a&gt; Glenn Greenwald’s partner David Miranda for NINE HOURS at Heathrow Airport yesterday, citing a section of the British Terrorism Act. It was an outrageous act designed to intimidate journalists like Greenwald who, by exposing the truth about secret government programs, threaten the continued well-being of the defense-surveillance state. (Free Press’ call to end this intimidation is &lt;a href=&quot;http://www.freepress.net/blog/2013/08/19/end-intimidation-journalists-and-their-families-now&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tonight, &lt;a href=&quot;http://www.washingtonpost.com/blogs/the-switch/wp/2013/08/19/u-k-government-thought-destroying-guardian-hard-drives-would-stop-snowden-stories/&quot;&gt;we learned&lt;/a&gt; that the British intelligence unit GCHQ attempted to liberate the &lt;em&gt;Guardian &lt;/em&gt;of hard drives containing Edward Snowden’s leaks. The agents, apparently not very cognizant of the way the Internet works, thought that if they stormed the &lt;em&gt;Guardian’s &lt;/em&gt;London offices — the NSA reporting is flowing through its New York office — and destroyed the hardware the data would disappear. &lt;em&gt;Guardian &lt;/em&gt;editor Alan Rusbridger &lt;a href=&quot;http://www.theguardian.com/commentisfree/2013/aug/19/david-miranda-schedule7-danger-reporters&quot;&gt;explains&lt;/a&gt; that it doesn’t really work that way.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Meanwhile, Peggy Noonan — &lt;em&gt;that&lt;/em&gt; Peggy Noonan — recently &lt;a href=&quot;http://online.wsj.com/article/SB10001424127887323639704579015101857760922.html?mod=hp_opinion&quot;&gt;interviewed&lt;/a&gt; Nat Hentoff and got some choice quotes about the dangers state surveillance state poses to our constitutional right to communicate and Americans’ understanding of themselves and their country. There’s a lot to chew on, so I’ll just repost a few bits (emphasis mine):&lt;/p&gt;
+&lt;blockquote&gt;About a year ago [Hentoff] went up to Harvard to speak to a class. He asked, he recalled: &quot;How many of you realize the connection between what's happening with the Fourth Amendment with the First Amendment?&quot; He told the students that if citizens don't have basic privacies—firm protections against the search and seizure of your private communications, for instance—they will be left feeling &quot;threatened.&quot; This will make citizens increasingly concerned &quot;about what they say, and they do, and they think.&quot; It will have the effect of constricting freedom of expression. Americans will become careful about what they say that can be misunderstood or misinterpreted, and then too careful about what they say that can be understood. &lt;strong&gt;The inevitable end of surveillance is self-censorship.&lt;/strong&gt; ...
+
+Mr. Hentoff's second point: An entrenched surveillance state will change and distort the balance that allows free government to function successfully. Broad and intrusive surveillance will, definitively, put government in charge.&lt;strong&gt; But a republic only works, Mr. Hentoff notes, if public officials know that they—and the government itself—answer to the citizens.&lt;/strong&gt; I&lt;strong&gt;t doesn't work, and is distorted, if the citizens must answer to the government.&lt;/strong&gt; And that will happen more and more if the government knows—and you know—that the government has something, or some things, on you. ...
+
+What of those who say, &quot;I have nothing to fear, I don't do anything wrong&quot;? Mr. Hentoff suggests that's a false sense of security. &quot;When you have this amount of privacy invasion put into these huge data banks, who knows what will come out?&quot; Or can be made to come out through misunderstanding the data, or finagling, or mischief of one sort or another. &lt;strong&gt;&quot;People say, 'Well I've done nothing wrong so why should I worry?' But that's too easy a way to get out of what is in our history—constant attempts to try to change who we are as Americans.&quot;&lt;/strong&gt; ...
+
+Mr. Hentoff notes that J. Edgar Hoover didn't have all this technology. &quot;He would be so envious of what NSA can do.&quot;&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">One the biggest dangers posed by the NSA’s overreaching surveillance programs is the chilling of free speech. Overzealous governments are spying on us, intimidating our families, and sending brutes to the offices of renowned newspapers with the clear intent of stopping people from reporting the facts about the massive, international government spying complex.</summary></entry><entry><title type="html">Google Reader is dead. Long live Google Reader!</title><link href="http://localhost:4000/uncategorized/2013/03/27/google-reader-is-dead-long-live-google-reader.html" rel="alternate" type="text/html" title="Google Reader is dead. Long live Google Reader!" /><published>2013-03-27T00:00:00-04:00</published><updated>2013-03-27T00:00:00-04:00</updated><id>http://localhost:4000/uncategorized/2013/03/27/google-reader-is-dead-long-live-google-reader</id><content type="html" xml:base="http://localhost:4000/uncategorized/2013/03/27/google-reader-is-dead-long-live-google-reader.html">&lt;p&gt;Last week, Google &lt;a href=&quot;http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html&quot;&gt;announced&lt;/a&gt; that its beloved Reader was going the way of the dodo. The Reader let users subscribe to website updates (via RSS, or “really simple syndication”) to make reading the news like reading email.&lt;/p&gt;
+
+&lt;p&gt;And with that, one more nail was driven into the coffin of the open Web.&lt;/p&gt;
+
+&lt;p&gt;Google Reader wasn’t the first RSS reader on the block. It may not have even been the best (&lt;a href=&quot;http://www.bloglines.com/&quot;&gt;Bloglines&lt;/a&gt; was my favorite back in the day).  In the halcyon days of the mid-2000s, when sites like Facebook, Flickr and Wikipedia were redefining our online experience (and adding “social” to the mix), there was a glut of RSS readers. Each one featured a twist on the news-reading experience. And since RSS is built on an open standard, it was easy to try them all before settling on a favorite.&lt;/p&gt;
+
+&lt;p&gt;So it was for dozens of new apps like online calendars, photo-sharing sites and note-taking tools. All were built on open technologies that made it easy for apps to talk to each other and share information. More importantly, it was easy to take your personal data to another service if you so decided.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Mozilla was breaking into the mainstream with a fast and innovative new Web browser called Firefox that was also built on open standards and open-source code (and featured an RSS feed reading right in your bookmark bar).&lt;/p&gt;
+
+&lt;p&gt;This heady moment of innovation inspired a lot of people, including me. It was a McLuhan-esque time in which the medium truly became the message: Using open-source tools and websites built on open standards was part of the point of being online in the first place.&lt;/p&gt;
+
+&lt;p&gt;Of course, this openness was baked into the Web from the start. World Wide Web inventor Tim Berners-Lee built the HTML coding language, HTTP (the protocol governing how Web pages talk to each other), and hypertext as open technologies. This meant no one could own the code — and everyone could use it.&lt;/p&gt;
+
+&lt;p&gt;But now, in 2013, something has changed. People like tech pioneer Anil Dash are &lt;a href=&quot;http://dashes.com/anil/2012/12/the-web-we-lost.html&quot;&gt;lamenting the Web we lost&lt;/a&gt;. Google Reader, which eventually won the RSS reader wars, is about to disappear in favor of Google+, Google’s great social hope (that next to no one actually uses).&lt;/p&gt;
+
+&lt;p&gt;And Google+ is a very different beast than Reader. Rather letting you build a portable list of your favorite websites, which is hard to monetize, it wants you to click that “+1” button on other websites to post articles to your Google+ feed (which no one is actually reading). Rather than give users the power to design their own reading experience, Google wants to stay in control — to suck up data about our reading habits into a proprietary netherworld. With Google+, you can’t simply move on to another tool if the present one isn’t working out for you. If you choose to move on, you’ll do so empty-handed — the opposite of the case with Google Reader and sites like it.&lt;/p&gt;
+
+&lt;p&gt;That version of our online experience is starting to feel pretty familiar. It’s how Facebook runs its playground of more than one billion users. It’s increasingly how Twitter governs its space. (Twitter recently removed the option to use RSS to subscribe to tweets.)&lt;/p&gt;
+
+&lt;p&gt;And it’s how more and more new apps are built — they build their own walled garden of data that can’t be freely shared with other apps — and we’re forced to click those ubiquitous “Tweet This,” Like, and +1 buttons. All the while you’re probably using Google’s Chrome browser, which itself is busy doing things like exposing your online behavior to third-party marketers and shutting down the ability to subscribe to RSS feeds.&lt;/p&gt;
+
+&lt;p&gt;The first couple of decades of the Web —the &lt;a href=&quot;http://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html&quot;&gt;first webpage&lt;/a&gt; went up in 1990 — saw an explosion of online activity. An entire world was built out of nothing. The foundation of that world was a culture of openness that enabled — and rewarded — the widespread sharing of information across platforms.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t just RSS; sites like Flickr and platforms like Wordpress built powerful APIs (the code that determines how you can access a site’s data) that made it easy to post photos and blog posts everywhere and create wild data mashups. The result was innovation: Web users could take photos from one site, status updates from another, news feeds from another — and build something completely new.&lt;/p&gt;
+
+&lt;p&gt;You could even argue that the Web wouldn’t have grown at the pace it did, and wouldn’t have taken over our lives so completely, had this culture of openness not been at its core.&lt;/p&gt;
+
+&lt;p&gt;This was the Web into which Google introduced its Reader.&lt;/p&gt;
+
+&lt;p&gt;Yet now, halfway into its third decade, the Web is moving in a different direction. As Anil Dash notes, something is indeed being lost here.&lt;/p&gt;
+
+&lt;p&gt;“We’ve lost key features that we used to rely on, and worse, we’ve abandoned core values that used to be fundamental to the Web world,” he writes. Among many examples, Dash refers to the spat between Instagram and Twitter, in which Twitter stopped showing users’ Instagram photos in its feed to make room for its own proprietary photo service.&lt;/p&gt;
+
+&lt;p&gt;That kind of spat wouldn’t have happened on the Web of 2005. But today, hoarding of information is the rule, not the exception. If you set out this year to build the photos/status updates/newsfeed tool described above — let’s call it &lt;a href=&quot;http://friendfeed.com/&quot;&gt;FriendFeed&lt;/a&gt; — you would have to sign an agreement with every useful site to build such a thing — assuming they were all willing to play ball. Anyway, it’s a moot point: The whole process would be so expensive that it wouldn’t be worth building the thing in the first place.&lt;/p&gt;
+
+&lt;p&gt;Soon after its arrival in 2005, Google Reader became the most popular RSS reader on the block. Its ascent meant the decline of its competition. Now, as it fades into the sunset, there’s new life in the RSS reader scene; dozens of Google Reader-replacements and innovations on the RSS reader idea — Flipboard, Pulse, and even Digg among them — are already with us. This RSS resurgence recalls a time when we assumed we could share whatever we wanted, wherever we wanted, without having to click on some damn button linking to a proprietary ghost town.&lt;/p&gt;
+
+&lt;p&gt;It’s possible that the death of Google Reader could wake many of us up to the fact that the Web we love is fast disappearing, and could inspire us to build something new, to work with each other again, and to make the free sharing of information the inspirational, de facto standard of our online experience.&lt;/p&gt;
+
+&lt;p&gt;In some kind of karmic retribution, maybe the death of Google Reader will mean the rebirth of the open Web.&lt;/p&gt;</content><author><name></name></author><summary type="html">Last week, Google announced that its beloved Reader was going the way of the dodo. The Reader let users subscribe to website updates (via RSS, or “really simple syndication”) to make reading the news like reading email.</summary></entry><entry><title type="html">Quickie List of Top 10 Albums from 2012</title><link href="http://localhost:4000/uncategorized/2013/01/02/quickie-list-of-top-10-albums-from-2012.html" rel="alternate" type="text/html" title="Quickie List of Top 10 Albums from 2012" /><published>2013-01-02T00:00:00-05:00</published><updated>2013-01-02T00:00:00-05:00</updated><id>http://localhost:4000/uncategorized/2013/01/02/quickie-list-of-top-10-albums-from-2012</id><content type="html" xml:base="http://localhost:4000/uncategorized/2013/01/02/quickie-list-of-top-10-albums-from-2012.html">&lt;p&gt;I wrote these down in about five minutes. There’s probably a lot missing but here’s what came to mind:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Grizzly Bear, &lt;em&gt;Shields&lt;/em&gt;
+Best record of the year.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Beach House, &lt;em&gt;Bloom&lt;/em&gt;
+Second best record of the year.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tame Impala, &lt;em&gt;Lonerism&lt;/em&gt;
+That’s ONE DUDE playing everything.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Father John Misty, &lt;em&gt;Fear Fun&lt;/em&gt;
+Ex-Fleet Foxes drummer, sarcastic but great songs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lambchop, &lt;em&gt;Mr. M&lt;/em&gt;
+Return to form.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Metz, &lt;em&gt;Metz&lt;/em&gt;
+Crushing. Jesus Lizard/Melvins/Big Black awesomeness.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lotus Plaza,&lt;em&gt; Spooky Action at a Distance&lt;/em&gt;
+Deerhunter guitar player/indie heartthrob Lockett Pundt does his best Ride impression.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Fresh &amp;amp; Onlys, &lt;em&gt;Yes or No&lt;/em&gt;
+Best Echo &amp;amp; the Bunnymen impression of the year.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Goat, &lt;em&gt;World Music&lt;/em&gt;
+Freaky, melodic, amazing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;James Levy &amp;amp; the Blood Red Rose, &lt;em&gt;Pray to Be Free&lt;/em&gt;
+He’s my brother.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">I wrote these down in about five minutes. There’s probably a lot missing but here’s what came to mind:</summary></entry></feed>

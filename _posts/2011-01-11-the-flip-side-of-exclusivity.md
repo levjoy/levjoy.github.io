@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'The flip side of exclusivity'
+categories:
+  - Uncategorized
+
+---
+
+<div class="posterous_bookmarklet_entry"><br /><blockquote class="posterous_long_quote">I&#8217;m just a little sick of people saying everything Apple does is perfect, and frankly, I&#8217;m glad the AT&amp;T exclusivity deal gave other <a href="http://www.pcmag.com/article2/0,2817,2375517,00.asp#" class="iAs" target="_blank" style="font-weight:normal!important;font-size:100%!important;text-decoration:underline!important;border-bottom-color:rgb(0,100,0)!important;border-bottom-style:solid!important;padding-bottom:1px!important;color:rgb(0,100,0)!important;background-color:transparent!important;">mobile</a> operating systems - most notably Android - <a href="http://www.pcmag.com/article2/0,2817,2375417,00.asp" class="">time to grow</a>.</blockquote><br /><br /><div class="posterous_quote_citation">via <a href="http://www.pcmag.com/article2/0,2817,2375517,00.asp">pcmag.com</a></div><br /><p>Sascha Segan writes a contrarian post in which he attempts to walk people away from Verizon iPhone hysteria. <br /></p><p>In addition to blaming tech writers working on the coasts for writing as if the iPhone is the only innovative piece of mobile hardware out there (he&#8217;s right to castigate them), his take on AT&amp;T&#8217;s exclusive hold on the iPhone makes a good point: Without it, Android wouldn&#8217;t have become a worthy competitor. <br /></p><p>I&#8217;m super interested to see how Android &#8212; which, to my mind, is as mature, useful and fun as iOS &#8212; fares now that its biggest U.S. supporter will get hold of the competition.</p></div><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/8920950033468593796-4758879718496407053?l=openmobile.blogspot.com" alt="" /></div>

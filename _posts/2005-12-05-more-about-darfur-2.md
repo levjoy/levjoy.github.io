@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'More about Darfur'
+categories:
+  - Uncategorized
+
+---
+
+
+    Although Darfur is once again an acceptable topic for some of the mass media to cover, the best coverage and the most urgent cries for help come from the great unwashed public media.  <a href="http://www.radioopensource.org/genocide-in-sudan/">Radio Open Source</a> had a great program featuring Nick "I'm going back to Sudan <em>again</em>" Kristof, and the ever-vigilant and important <a href="http://sleeplessinsudan.blogspot.com/2005/12/ive-been-ranting-lot-over-past-few.html">Sleepless in Sudan </a>offers tips for how to help.  I'm re-posting them below.
+
+<blockquote>
+<strong>Find out more.</strong> The conflict in Darfur may be complex and the context somewhat daunting, but it's hard to help when you're ignorant about the issues involved. It's going to be a lot easier for you to help the people of Darfur if you try to understand the situation and use your knowledge to take certain actions (see the following points) or to influence others. No matter how good your intentions, uninformed opinions or arguments will not take you very far. Reading Darfur news (for example on <a href="http://www.alertnet.org">Alertnet</a> or <a href="http://www.sudantribune.com">Sudan Tribune</a>) or the work of Darfur activitists and academics like <a href="http://www.sudanreeves.org">Eric Reeves</a> is a good start.
+
+<strong>Give money</strong>. Yes, in some cases throwing money at a problem does help. Particularly if you are throwing it into the hands of a respectable and effective aid agency.
+The UN HAS (<a href="http://www.humanitarianinfo.org/darfur/services/UNHAS/index.asp">Humanitarian Air Service</a>) desperately needs some cash to ferry around the aid workers in their helicopters and planes, while the UN JLC (<a href="http://www.unjlc.org">Joint Logistics Center</a>) is running short on funds for things like plastic sheeting, blankets and soaps. Then of course, there's always us NGOs - and we always need money. You might have your own favourite organsition already, but if you don't it's hard to go wrong with some of most long-standing and reputable outfits like the <a href="http://www.icrc.org/">ICRC</a>, <a href="http://www.msf.org">MSF</a>, <a href="http://www.oxfam.org">Oxfam</a> or the <a href="http://www.theirc.org">IRC</a>.
+In addition to supporting the organisations who are providing relief on the ground, you might also want to support human rights and policy groups like <a href="http://www.hrw.org/">Human Rights Watch</a> or the <a href="http://www.crisisgroup.org/home/index.cfm?">International Crisis Group</a> so they can continue to carry out research and advocacy work on Darfur - unlike the aid agencies working on the ground, these groups are not as restricted in what they can say about the situation, and they often make concrete suggestions on political solutions.
+The African Union, as I pointed out yesterday, also need support - they haven't got enough cars, fuel or even ammunition (and there are people like the folks at the <a href="http://www.genocideinterventionfund.org/">Genocide Intervention Fund</a> who are doing direct fund-raising for the AU troops).
+
+<strong>Nag the politicians</strong> <strong>- and the newspapers</strong>. Politicians rely on you for votes, and they actually pay more attention to emails, letters and phone calls than most people think - particularly if these arrive en masse. Writing to your political representatives to highlight an issue - and to your local media outlets to demand they dedicate more coverage to it - can be an effective way of putting pressure on those who make the decisions.
+
+<strong>Join an activist group</strong>. wear a <a href="https://app.etapestry.com/hosted/SaveDarfurCoalition/Wristbands.html">wrist band</a>, support a <a href="http://www.divestsudan.org/">divestment campaign</a>, join a <a href="http://www.standarfur.org/">student group</a>. There are many people out there who are interested in Darfur and can give you ideas on how to take action.
+
+<strong>Be creative</strong>. The ideas I've listed here are nothing new. People who want to make a difference sometimes need to be a bit more innovative, like the students who founded the Genocide Intervention Fund.
+If you're a filmmaker you might be inspired to make a documentary about Darfur, if you're a priest you might want to discuss the issue with your congregation. You might even decide to use your existing skills to come and work in Darfur - I've had many emails asking if this is possible, the answer is absolutely, as long as your skills can be applied usefully over here (for example, medical agencies always need trained doctors and nurses, major aid deliveries only arrive with the support of pilots, mechanics, and skilled logisticians, and pretty much any aid operation can use experienced and effective managers with relevant overseas experience). Darfur jobs are usually advertised on <a href="http://www.reliefweb.org">Reliefweb</a> - if you're qualified for a job, apply.</blockquote>
+<p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/Darfur" rel="tag">Darfur</a><strong>|</strong> <a href="http://www.technorati.com/tag/genocide" rel="tag">genocide</a><strong>|</strong> <a href="http://www.technorati.com/tag/human%20rights" rel="tag">human rights</a><strong>|</strong> <a href="http://www.technorati.com/tag/sudan" rel="tag">sudan</a></p>
+  
