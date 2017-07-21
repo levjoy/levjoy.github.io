@@ -27,4 +27,3 @@ Our government is unwilling to criticize Saudi Arabia lest our oil prices go up 
 
 Meanwhile, the <a href="http://www.technorati.com/search/hajj">blogosphere</a> is talking.
 <p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/Apple" rel="tag">Apple</a><strong>|</strong> <a href="http://www.technorati.com/tag/hajj" rel="tag">hajj</a><strong>|</strong> <a href="http://www.technorati.com/tag/mecca" rel="tag">mecca</a><strong>|</strong> <a href="http://www.technorati.com/tag/puppy" rel="tag">puppy</a><strong>|</strong> <a href="http://www.technorati.com/tag/saudi%20arabia" rel="tag">saudi arabia</a><strong>|</strong> <a href="http://www.technorati.com/tag/Steve%20Jobs" rel="tag">Steve Jobs</a></p>
-  

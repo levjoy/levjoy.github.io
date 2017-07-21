@@ -12,5 +12,3 @@ It turns out I'm not alone.  This great site,  <a href="http://www.fuh2.com/inde
 
 
 <p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/Hummer" rel="tag">Hummer</a></p>
-
-  

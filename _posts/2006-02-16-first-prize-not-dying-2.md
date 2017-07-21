@@ -15,4 +15,3 @@ I thought it might be too, until I played it.  I think it's attempting to create
 
 I sure did.  I felt a twinge of terror upon being caught again and again by the janjaweed.  The experience of gaming lets in a difference side of the tragedy, and it might just move people to pay attention to this badly neglected issue.
 Tags: <a href="http://www.technorati.com/tag/Darfur" rel="tag">Darfur</a><strong>|</strong> <a href="http://www.technorati.com/tag/games" rel="tag">games</a><strong>|</strong> <a href="http://www.technorati.com/tag/genocide" rel="tag">genocide</a><strong>|</strong> <a href="http://www.technorati.com/tag/mtv" rel="tag">mtv</a>
-  

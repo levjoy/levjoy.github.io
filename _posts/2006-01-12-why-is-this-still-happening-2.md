@@ -17,4 +17,3 @@ How is it that, in 2006, we can still let this kind of bullshit happen?
 <a href="http://www.technorati.com/tag/stampede" rel="tag"></a>
 
 </p>
-  

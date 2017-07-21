@@ -18,5 +18,3 @@ And when these governments start spouting anti-American rhetoric -- calling the 
 So yes, Rosanne, I think this will have an impact on a global scale, and the American government is quite concerned about it.
 
 <p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/oil" rel="tag">oil</a><strong>|</strong> <a href="http://www.technorati.com/tag/Chile" rel="tag">Chile</a><strong>|</strong> <a href="http://www.technorati.com/tag/Evo%20Morales" rel="tag">Evo Morales</a><strong>|</strong> <a href="http://www.technorati.com/tag/Venezuela" rel="tag">Venezuela</a></p>
-
-  

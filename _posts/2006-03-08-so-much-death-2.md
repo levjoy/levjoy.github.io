@@ -37,5 +37,3 @@ And Kirby?  God bless 'im.
 
 
 <p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/abortion" rel="tag">abortion</a><strong>|</strong> <a href="http://www.technorati.com/tag/dana%20reeve" rel="tag">dana reeve</a><strong>|</strong> <a href="http://www.technorati.com/tag/gordon%20parks" rel="tag">gordon parks</a><strong>|</strong> <a href="http://www.technorati.com/tag/kirby%20puckett" rel="tag">kirby puckett</a><strong>|</strong> <a href="http://www.technorati.com/tag/South%20Dakota" rel="tag">South Dakota</a></p>
-
-  

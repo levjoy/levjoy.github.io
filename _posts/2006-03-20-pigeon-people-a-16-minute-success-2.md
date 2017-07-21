@@ -29,5 +29,3 @@ And just look at the handsome people that were so good to show up:
 
 
 <p style="text-align:right;font-size:11px;letter-spacing:.05em;color:#808979;">Tags: <a href="http://www.technorati.com/tag/pigeons" rel="tag">pigeons</a></p>
-
-  
