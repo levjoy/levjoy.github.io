@@ -6,7 +6,7 @@ layout: default
 
   <h1 class="page-heading">About me</h1>
 
-  <img src="/pics/levy-painting.jpg" alt-="Levy painting" height="75" align="left" hspace="10">
+  <img src="/pics/b_w_levy.jpg" alt-="Levy painting" height="75" align="left" hspace="10">
 
   <p>I'm a campaign strategist and digital rights advocate. I'm currently a non-resident fellow at <a href="https://pacscenter.stanford.edu/digital-civil-society/">Stanford's Digital Civil Society Lab</a>, where I'm building a <a href="https://www.digitalsecurityexchange.org/">Digital Security Exchange</a> to help connect digital security trainers to social sector and civil society organizations.
 
