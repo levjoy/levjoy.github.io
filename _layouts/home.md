@@ -8,7 +8,7 @@ layout: default
 
   <img src="/pics/portrait-josh.png" alt-="Levy portrait" height="75" align="left" hspace="10" vspace="10">
 
-<p>Hi. I'm founder and director of the <a href="https://www.digitalsecurityexchange.org/">Digital Security Exchange (DSX)</a>, which helps civil society organizations connect to qualified digital security providers. I'm also technology director at <a href="https://digiresilience.org/">Center for Digital Resilience</a>, the global parent of the DSX. I've been a digital rights advocate for more than a decade, working on various initiatives to protect the free, open, private, and secure internet.
+<p>Hi. I'm chief technology officer and co-founder of <a href="https://digiresilience.org/">Center for Digital Resilience</a>, and the founder and director of the <a href="https://www.digitalsecurityexchange.org/">Digital Security Exchange (DSX)</a>. I've been a digital rights advocate for more than a decade, working on various initiatives to protect the free, open, private, and secure internet.
 
 <p>Previously I was advocacy director at <a href="http://accessnow.org/">Access Now</a>, campaign director at <a href="http://www.freepress.net">Free Press</a>, managing editor of <a href="http://www.change.org">Change.org</a> and associate editor of <a href="http://www.techpresident.com">techPresident</a> and <a href="http://www.personaldemocracy.com">Personal Democracy Forum</a>.
 
