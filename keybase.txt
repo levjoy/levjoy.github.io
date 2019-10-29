@@ -6,46 +6,47 @@ I hereby claim:
 
   * I am an admin of https://levjoy.com
   * I am levjoy (https://keybase.io/levjoy) on keybase.
-  * I have a public key ASCJ8DCbWcTiYScgl-IedLvzLtTTGcDeuju1-WqfoCaEYwo
+  * I have a public key ASBDCjt8VYNa68R-6FmxyKOKByvEc9oq8bGRQQFkg_C2mAo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "012089f0309b59c4e261272097e21e74bbf32ed4d319c0deba3bb5f96a9fa02684630a",
+      "eldest_kid": "010173217099eac4088a197a62bc7e6a55d8eba4d28b6f5c4c0cdae6fe6cf8e19ed20a",
       "host": "keybase.io",
-      "kid": "012089f0309b59c4e261272097e21e74bbf32ed4d319c0deba3bb5f96a9fa02684630a",
+      "kid": "0120430a3b7c55835aebc47ee859b1c8a38a072bc473da2af1b19141016483f0b6980a",
       "uid": "0a3235071022ae65c5adcb09efaa0619",
       "username": "levjoy"
     },
     "merkle_root": {
-      "ctime": 1518706979,
-      "hash": "06466fd920bc4fc234d906e64bef61c6d8fac5ea9e5fc447db9dc77384c6551593a4d2df407719841e7f5657a9edaf4c57032bd879e19b1fe3e1b10abdd52dd5",
-      "hash_meta": "c2e86ac39f141555be86633dc1cd9c89aa6a7dac0fad26fa7e7efb4af7d86e73",
-      "seqno": 2086791
+      "ctime": 1572381817,
+      "hash": "e0481155ec6f807fd44c4f116ecacf046a4ee5c6341958312652ee2c88cfe8ba9b7aee57295761660122e8104c229955f91a23a8d53121e88134143b7326fb61",
+      "hash_meta": "acf6609a641fcc46a599dd6d51c66101482e52ca8838cae5a3c79fd768fc52e9",
+      "seqno": 8503197
     },
     "service": {
+      "entropy": "eGvVQYflz0vI3MYV44CKus2n",
       "hostname": "levjoy.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.39"
+    "version": "4.7.1"
   },
-  "ctime": 1518706983,
+  "ctime": 1572381826,
   "expire_in": 504576000,
-  "prev": "17d340fdcef8113ac19b59efdd140fbd31f1d6565b733f5f18ad49e5ee841034",
-  "seqno": 61,
+  "prev": "543366b524a3001ab44a6c507450b6412747f62ba84e7d73bf32f54ec072d783",
+  "seqno": 110,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgifAwm1nE4mEnIJfiHnS78y7U0xnA3ro7tflqn6AmhGMKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODlmMDMwOWI1OWM0ZTI2MTI3MjA5N2UyMWU3NGJiZjMyZWQ0ZDMxOWMwZGViYTNiYjVmOTZhOWZhMDI2ODQ2MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODlmMDMwOWI1OWM0ZTI2MTI3MjA5N2UyMWU3NGJiZjMyZWQ0ZDMxOWMwZGViYTNiYjVmOTZhOWZhMDI2ODQ2MzBhIiwidWlkIjoiMGEzMjM1MDcxMDIyYWU2NWM1YWRjYjA5ZWZhYTA2MTkiLCJ1c2VybmFtZSI6ImxldmpveSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxODcwNjk3OSwiaGFzaCI6IjA2NDY2ZmQ5MjBiYzRmYzIzNGQ5MDZlNjRiZWY2MWM2ZDhmYWM1ZWE5ZTVmYzQ0N2RiOWRjNzczODRjNjU1MTU5M2E0ZDJkZjQwNzcxOTg0MWU3ZjU2NTdhOWVkYWY0YzU3MDMyYmQ4NzllMTliMWZlM2UxYjEwYWJkZDUyZGQ1IiwiaGFzaF9tZXRhIjoiYzJlODZhYzM5ZjE0MTU1NWJlODY2MzNkYzFjZDljODlhYTZhN2RhYzBmYWQyNmZhN2U3ZWZiNGFmN2Q4NmU3MyIsInNlcW5vIjoyMDg2NzkxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImxldmpveS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxODcwNjk4MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIxN2QzNDBmZGNlZjgxMTNhYzE5YjU5ZWZkZDE0MGZiZDMxZjFkNjU2NWI3MzNmNWYxOGFkNDllNWVlODQxMDM0Iiwic2Vxbm8iOjYxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFZzuSEhY7A1KsWnDdaI6nq2vp2Jbv0wE9kkbwJLyyRxMzpxzYM7kbSD2aYN8G9xz6IsEkQY/L3LedGEB1X3xAKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAhhk/Gd7UmjnDxkUJlDhIzwlOqgWcKEzcJU35Ma/6xSqN0YWfNAgKndmVyc2lvbgE=
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQwo7fFWDWuvEfuhZscijigcrxHPaKvGxkUEBZIPwtpgKp3BheWxvYWTESpcCbsQgVDNmtSSjABq0SmxQdFC2QSdH9iuoTn1zvzL1TsBy14PEICs4G7pynxi4//7y4mdAYWwVWs5g0p5M7GSZq+PfTo04AgHCo3NpZ8RAeB1WCNK5PxwGC5mc6/cRYXsfJvM+LS+H1OHXZoGT9z0Ahyymj/z3gxAwmNwEpQAe0d3OhQiL0jFZfIjcBgdVCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEDUhiXSrGxQLGM68u2wQB79aGVunjtxtFrX7oBaNrCSo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
