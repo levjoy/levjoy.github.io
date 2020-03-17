@@ -12,7 +12,7 @@ layout: default
 
 <p>Previously I was advocacy director at <a href="http://accessnow.org/">Access Now</a>, campaign director at <a href="http://www.freepress.net">Free Press</a>, managing editor of <a href="http://www.change.org">Change.org</a> and associate editor of <a href="http://www.techpresident.com">techPresident</a> and <a href="http://www.personaldemocracy.com">Personal Democracy Forum</a>.
 
-  <p>Last year I was a non-resident fellow at <a href="https://pacscenter.stanford.edu/digital-civil-society/">Stanford's Digital Civil Society Lab</a>. I also hold an MFA in <a href="http://ima-mfa.hunter.cuny.edu/">Integrated Media Arts</a> from Hunter College, City University of New York, where I was an early proponent and analyst of the use of emergent social platforms for political and social advocacy.
+  <p>I was a 2017 non-resident fellow at <a href="https://pacscenter.stanford.edu/digital-civil-society/">Stanford's Digital Civil Society Lab</a>. I also hold an MFA in <a href="http://ima-mfa.hunter.cuny.edu/">Integrated Media Arts</a> from Hunter College, City University of New York, where I was an early proponent and analyst of the use of emergent social platforms for political and social advocacy.
 
   <p>I live in Northampton, MA with my wife and three kids.
 
